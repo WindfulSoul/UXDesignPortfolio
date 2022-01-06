@@ -12,3 +12,7 @@ Built With
   - QuerySelectorAll
   - addEventListener
 
+Concepts Learned for UI
+- CSS Animation (Colorgraphy and Typography Animated)
+- DOM (Power of Javascript yet Limited in Generalized Selection)
+- Background Changes with Better Rendering
